@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/StudentUno/ProjectOne/static/css/main.a617e044.chunk.css",
+    "main.js": "/StudentUno/ProjectOne/static/js/main.eb01a6e6.chunk.js",
+    "main.js.map": "/StudentUno/ProjectOne/static/js/main.eb01a6e6.chunk.js.map",
+    "runtime-main.js": "/StudentUno/ProjectOne/static/js/runtime-main.5d90adf4.js",
+    "runtime-main.js.map": "/StudentUno/ProjectOne/static/js/runtime-main.5d90adf4.js.map",
+    "static/js/2.9b87bb3a.chunk.js": "/StudentUno/ProjectOne/static/js/2.9b87bb3a.chunk.js",
+    "static/js/2.9b87bb3a.chunk.js.map": "/StudentUno/ProjectOne/static/js/2.9b87bb3a.chunk.js.map",
+    "static/js/3.b7350bf9.chunk.js": "/StudentUno/ProjectOne/static/js/3.b7350bf9.chunk.js",
+    "static/js/3.b7350bf9.chunk.js.map": "/StudentUno/ProjectOne/static/js/3.b7350bf9.chunk.js.map",
+    "index.html": "/StudentUno/ProjectOne/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/StudentUno/ProjectOne/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9b87bb3a.chunk.js.LICENSE.txt": "/StudentUno/ProjectOne/static/js/2.9b87bb3a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/StudentUno/ProjectOne/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d90adf4.js",
+    "static/js/2.9b87bb3a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.eb01a6e6.chunk.js"
+  ]
+}
